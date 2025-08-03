@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/0RyXWB8y/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png">
+<img src="https://i.ibb.co/TBX8XZ0b/img1.png">
 <h1 align="center">Hello, I'm Rumel Ahmed</h1>
 <h3 align="center"> Passionate Web developer |Clean code |Web solution |Graphic Designer from Bangladesh</h3>
 
