@@ -1,4 +1,4 @@
-<img src="image/img1.png">
+<img src="D:\image\img1.png">
 <h1 align="center">Hello, I'm Rumel Ahmed</h1>
 <h3 align="center"> Passionate Web developer |Clean code |Web solution |Graphic Designer from Bangladesh</h3>
 
